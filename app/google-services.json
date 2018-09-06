@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "114288094453",
+    "firebase_url": "https://shopdevices-eb2c4.firebaseio.com",
+    "project_id": "shopdevices-eb2c4",
+    "storage_bucket": "shopdevices-eb2c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114288094453:android:e336660ffdf82ee5",
+        "android_client_info": {
+          "package_name": "com.example.phitup.shopdevices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114288094453-bci8rmru1h2dgp82vsavpg38lsbul8jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phitup.shopdevices",
+            "certificate_hash": "712b648b445d721f84326ea62d7d4f670fc647c7"
+          }
+        },
+        {
+          "client_id": "114288094453-tc130pk5ojlrbtndv5fhmtd7pcr8spvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2JZuZ5D8yofuZ7UnXqKxlyNnOTmQnnuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114288094453-tc130pk5ojlrbtndv5fhmtd7pcr8spvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
